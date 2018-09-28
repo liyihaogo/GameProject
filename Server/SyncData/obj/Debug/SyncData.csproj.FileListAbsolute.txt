@@ -1,0 +1,10 @@
+E:\GameProject\Server\SyncData\bin\Debug\SyncData.dll
+E:\GameProject\Server\SyncData\bin\Debug\SyncData.pdb
+E:\GameProject\Server\SyncData\bin\Debug\protobuf-net.dll
+E:\GameProject\Server\SyncData\bin\Debug\protobuf-net.xml
+E:\GameProject\UnityClient\Assets\Plugins\SyncData.dll
+E:\GameProject\UnityClient\Assets\Plugins\SyncData.pdb
+E:\GameProject\Server\SyncData\obj\Debug\SyncData.csproj.CoreCompileInputs.cache
+E:\GameProject\Server\SyncData\obj\Debug\SyncData.csproj.CopyComplete
+E:\GameProject\Server\SyncData\obj\Debug\SyncData.dll
+E:\GameProject\Server\SyncData\obj\Debug\SyncData.pdb

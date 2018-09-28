@@ -1,0 +1,7 @@
+实现了客户端服务器交互，并存储数据库功能。
+服务器和客户端均用C#来实现，提高了效率。
+协议采用Protobuf-net
+通信采用Tcp
+数据库用mySql
+数据库通信用FluentNHibernate
+客户端采用unity3d实现。

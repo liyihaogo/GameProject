@@ -1,0 +1,14 @@
+E:\GameProject\PublicLib\PublicLib\bin\Debug\PublicLib.dll
+E:\GameProject\PublicLib\PublicLib\bin\Debug\PublicLib.pdb
+E:\GameProject\PublicLib\PublicLib\bin\Debug\protobuf-net.dll
+E:\GameProject\PublicLib\PublicLib\bin\Debug\SyncData.dll
+E:\GameProject\PublicLib\PublicLib\bin\Debug\UnityEngine.dll
+E:\GameProject\PublicLib\PublicLib\bin\Debug\protobuf-net.xml
+E:\GameProject\PublicLib\PublicLib\bin\Debug\SyncData.pdb
+E:\GameProject\PublicLib\PublicLib\bin\Debug\UnityEngine.xml
+E:\GameProject\UnityClient\Assets\Plugins\PublicLib.dll
+E:\GameProject\UnityClient\Assets\Plugins\PublicLib.pdb
+E:\GameProject\PublicLib\PublicLib\obj\Debug\PublicLib.csproj.CoreCompileInputs.cache
+E:\GameProject\PublicLib\PublicLib\obj\Debug\PublicLib.csproj.CopyComplete
+E:\GameProject\PublicLib\PublicLib\obj\Debug\PublicLib.dll
+E:\GameProject\PublicLib\PublicLib\obj\Debug\PublicLib.pdb
